@@ -1,3 +1,2 @@
 # odin-recipes
-HTML only project 
-Practicing Basic HTML functions
+HTML only project, practicing basic HTML functions
